@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "E:\\ddemo\\WindowsFormsApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\WindowsFormsApp2.csproj|E:\\ddemo\\WindowsFormsApp2\\windowsformsapp2\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\QLCF.csproj|e:\\ddemo\\windowsformsapp2\\windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\QLCF.csproj|solutionrelative:windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\QLCF.csproj|e:\\ddemo\\windowsformsapp2\\windowsformsapp2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\QLCF.csproj|solutionrelative:windowsformsapp2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\WindowsFormsApp2.csproj|E:\\ddemo\\WindowsFormsApp2\\windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\WindowsFormsApp2.csproj|e:\\ddemo\\windowsformsapp2\\windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\QLCF.csproj|E:\\ddemo\\WindowsFormsApp2\\windowsformsapp2\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\QLCF.csproj|solutionrelative:windowsformsapp2\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\WindowsFormsApp2.csproj|E:\\ddemo\\WindowsFormsApp2\\windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D120D10-54BF-43F4-87C6-3833070B720F}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -33,8 +41,36 @@
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "E:\\ddemo\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\fLogin.cs",
+              "ToolTip": "E:\\ddemo\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:03:10.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "table.cs [Design]",
+              "DocumentMoniker": "E:\\ddemo\\WindowsFormsApp2\\WindowsFormsApp2\\table.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\table.cs",
+              "ToolTip": "E:\\ddemo\\WindowsFormsApp2\\WindowsFormsApp2\\table.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\table.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:53:51.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "fLogin.cs",
               "DocumentMoniker": "E:\\ddemo\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\fLogin.cs",
@@ -42,33 +78,31 @@
               "RelativeToolTip": "WindowsFormsApp2\\fLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:29:05.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T13:29:05.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "fLogin.Designer.cs",
               "DocumentMoniker": "E:\\ddemo\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\fLogin.Designer.cs",
               "ToolTip": "E:\\ddemo\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.Designer.cs",
               "RelativeToolTip": "WindowsFormsApp2\\fLogin.Designer.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAowIcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowIcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T13:28:45.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "fLogin.cs [Design]",
               "DocumentMoniker": "E:\\ddemo\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\fLogin.cs",
               "ToolTip": "E:\\ddemo\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\fLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:29:01.362Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-19T13:29:01.362Z"
             }
           ]
         }

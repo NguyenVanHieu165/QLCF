@@ -65,6 +65,12 @@
     <Compile Include="fLogin.Designer.cs">
       <DependentUpon>fLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="table.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="table.Designer.cs">
+      <DependentUpon>table.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="fLogin.resx">
