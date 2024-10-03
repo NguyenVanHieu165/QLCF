@@ -20,7 +20,9 @@ namespace WindowsFormsApp2
 
         private void bntLogin_Click(object sender, EventArgs e)
         {
-
+            fTable f =new fTable();
+            this.Hide();
+            f.Show();
         }
         private void btnExit_Click(object sender, EventArgs e)
         {

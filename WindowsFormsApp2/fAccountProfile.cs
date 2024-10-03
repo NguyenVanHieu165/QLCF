@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class table : Form
+    public partial class fAccountProfile : Form
     {
-        public table()
+        public fAccountProfile()
         {
             InitializeComponent();
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
