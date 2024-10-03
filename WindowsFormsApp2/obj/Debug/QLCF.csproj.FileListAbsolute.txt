@@ -22,10 +22,11 @@ E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\DevExpress.Pdf.v24.1.Drawin
 E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLCF.csproj.AssemblyReference.cache
 E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fLogin.resources
 E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
-E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.table.resources
 E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLCF.csproj.GenerateResource.cache
 E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.licenses
 E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
 E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\QLCF.csproj.Up2Date
 E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fAccountProfile.resources
+E:\ddemo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fTable.resources
