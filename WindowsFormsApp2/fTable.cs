@@ -26,12 +26,21 @@ namespace WindowsFormsApp2
         {
             this.Close();
         }
+        private void fTable_Load(object sender, EventArgs e)
+        {
 
-        private void thôngTinCáNhânToolStripMenuItem_Click(object sender, EventArgs e)
+        }
+
+        private void thôngTinToolStripMenuItem_Click(object sender, EventArgs e)
         {
             fAccountProfile f=new fAccountProfile();
-            this.Hide();
+            this.Show();
             f.Show();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
