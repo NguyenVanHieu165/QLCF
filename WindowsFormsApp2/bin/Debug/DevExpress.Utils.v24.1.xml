@@ -15900,6 +15900,11 @@ The <see cref="F:DevExpress.Utils.DefaultBoolean.Default">DefaultBoolean.Default
         <para>Enables all keyboard navigation extensions</para>
       </summary>
     </member>
+    <member name="F:DevExpress.XtraEditors.KeyboardNavigationExtensions.Default">
+      <summary>
+        <para>Equals to RibbonAndBars.</para>
+      </summary>
+    </member>
     <member name="F:DevExpress.XtraEditors.KeyboardNavigationExtensions.Editors">
       <summary>
         <para>Enables the <see cref="P:DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit.AllowButtonNavigation">RepositoryItemButtonEdit.AllowButtonNavigation</see> option for all button editors.</para>
@@ -15913,6 +15918,11 @@ The <see cref="F:DevExpress.Utils.DefaultBoolean.Default">DefaultBoolean.Default
     <member name="F:DevExpress.XtraEditors.KeyboardNavigationExtensions.None">
       <summary>
         <para>Disables all keyboard navigation extensions.</para>
+      </summary>
+    </member>
+    <member name="F:DevExpress.XtraEditors.KeyboardNavigationExtensions.RibbonAndBars">
+      <summary>
+        <para>Reverts the Ribbon and Bar’s keyboard navigation to the previous behavior.</para>
       </summary>
     </member>
     <member name="T:DevExpress.XtraEditors.ObjectCustomDrawEventArgs">

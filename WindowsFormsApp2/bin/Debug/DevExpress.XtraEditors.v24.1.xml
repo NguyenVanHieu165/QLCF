@@ -22504,9 +22504,9 @@ The DefaultBoolean.Default value is equivalent to DefaultBoolean.True if the sta
     </member>
     <member name="P:DevExpress.XtraEditors.Repository.RepositoryItem.DisplayFormat">
       <summary>
-        <para>Provides access to the format settings applied to the editor’s display text. These settings are in effect when the editor does not have input focus.</para>
+        <para>Gets format settings applied to the editor’s value.</para>
       </summary>
-      <value>A <see cref="T:DevExpress.Utils.FormatInfo"/> object containing the formatting settings applied to the control’s display text.</value>
+      <value>Format settings.</value>
     </member>
     <member name="E:DevExpress.XtraEditors.Repository.RepositoryItem.DoubleClick">
       <summary>
@@ -34747,14 +34747,14 @@ The DefaultBoolean.Default value is equivalent to DefaultBoolean.True if the sta
       <summary>
         <para>Initializes a new instance of the <see cref="T:DevExpress.XtraEditors.TokenEditToken"/> class with specified settings.</para>
       </summary>
-      <param name="value">The token value. Token values must be unique. This value is assigned to the <see cref="P:DevExpress.XtraEditors.TokenEditToken.Value"/> property.</param>
+      <param name="tokenValue">The token value. Token values must be unique. This value is assigned to the <see cref="P:DevExpress.XtraEditors.TokenEditToken.Value"/> property.</param>
     </member>
     <member name="M:DevExpress.XtraEditors.TokenEditToken.#ctor(System.String,System.Object)">
       <summary>
         <para>Initializes a new instance of the <see cref="T:DevExpress.XtraEditors.TokenEditToken"/> class with specified settings.</para>
       </summary>
       <param name="description">The token description. This value is assigned to the <see cref="P:DevExpress.XtraEditors.TokenEditToken.Description"/> property.</param>
-      <param name="value">The token value. Token values must be unique. This value is assigned to the <see cref="P:DevExpress.XtraEditors.TokenEditToken.Value"/> property.</param>
+      <param name="tokenValue">The token value. Token values must be unique. This value is assigned to the <see cref="P:DevExpress.XtraEditors.TokenEditToken.Value"/> property.</param>
     </member>
     <member name="P:DevExpress.XtraEditors.TokenEditToken.Description">
       <summary>

@@ -8899,7 +8899,7 @@
       <summary>
         <para>Initializes a new instance of the <see cref="T:DevExpress.Export.Xl.XlTop10Filter"/> class with the specified settings.</para>
       </summary>
-      <param name="value">A <see cref="T:System.Double"/> value that is a number or percentage of column values to display. This value is assigned to the <see cref="P:DevExpress.Export.Xl.XlTop10Filter.Value">XlTop10Filter.Value</see> property.</param>
+      <param name="numericValue">A <see cref="T:System.Double"/> value that is a number or percentage of column values to display. This value is assigned to the <see cref="P:DevExpress.Export.Xl.XlTop10Filter.Value">XlTop10Filter.Value</see> property.</param>
       <param name="filterValue">A <see cref="T:System.Double"/> value that is the actual cell value used by the filter to perform the comparison. This value is assigned to the <see cref="P:DevExpress.Export.Xl.XlTop10Filter.FilterValue">XlTop10Filter.FilterValue</see> property.</param>
       <param name="top">A <see cref="T:System.Boolean"/> value indicating whether to filter column values by top order. This value is assigned to the <see cref="P:DevExpress.Export.Xl.XlTop10Filter.Top">XlTop10Filter.Top</see> property.</param>
       <param name="percent">A <see cref="T:System.Boolean"/> value indicating whether to show values that fall in the top/bottom N percent of column values. This value is assigned to the <see cref="P:DevExpress.Export.Xl.XlTop10Filter.Percent">XlTop10Filter.Percent</see> property.</param>
@@ -19086,9 +19086,9 @@
     </member>
     <member name="P:DevExpress.XtraPrinting.FormattedTextExportOptions.EmptyFirstPageHeaderFooter">
       <summary>
-        <para>Specifies whether or not the header and footer contents should be displayed on the first page of the final document.</para>
+        <para>Specifies whether to display the header and footer contents on the exported document’s first page.</para>
       </summary>
-      <value>true, to display the header and footer on the first page; otherwise, false.</value>
+      <value>true to suppress rendering of the header and footer contents; otherwise, false.</value>
     </member>
     <member name="P:DevExpress.XtraPrinting.FormattedTextExportOptions.ExportPageBreaks">
       <summary>
